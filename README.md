@@ -1,2 +1,21 @@
-# TUTUs
-TUTUs on Arduino UNO
+# TUTUS
+
+TUTUs is an autonomous delivery robot operating on Arduino UNO cpu.
+
+## Setup
+
+Before use, ensure connecting Arduino components are correctly defined in software header. (ie below)
+
+```cpp
+#define LEFT_LINE_SENSOR          8
+#define MIDDLE_LINE_SENSOR        9
+#define RIGHT_LINE_SENSOR         10
+
+#define MOTOR_LEFT_DIRECTION      4
+#define MOTOR_LEFT_SPEED          5
+#define MOTOR_RIGHT_DIRECTION     7
+#define MOTOR_RIGHT_SPEED         6
+
+#define SERVO_LEFT                2
+#define SERVO_RIGHT               3
+```
