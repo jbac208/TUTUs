@@ -19,3 +19,6 @@ Before use, ensure connecting Arduino components are correctly defined in softwa
 #define SERVO_LEFT                2
 #define SERVO_RIGHT               3
 ```
+## Repo
+
+Each module/funcionality of the full program was seperately written, then combined into single file for upload onto Arduino UNO.
