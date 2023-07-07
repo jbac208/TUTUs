@@ -24,3 +24,8 @@ Before use, ensure connecting Arduino components are correctly defined in softwa
 Each module/funcionality of the full program was seperately written, then combined into single file for upload onto Arduino UNO.
 
 ![TUTUs report slides](/HRI_TUTUS_summary_slides/HRI_TUTUS_summary_slides1024_1.png?raw=true "TUTUs summary slides")
+![TUTUs report slides](/HRI_TUTUS_summary_slides/HRI_TUTUS_summary_slides1024_2.png?raw=true "TUTUs summary slides")
+![TUTUs report slides](/HRI_TUTUS_summary_slides/HRI_TUTUS_summary_slides1024_3.png?raw=true "TUTUs summary slides")
+![TUTUs report slides](/HRI_TUTUS_summary_slides/HRI_TUTUS_summary_slides1024_4.png?raw=true "TUTUs summary slides")
+![TUTUs report slides](/HRI_TUTUS_summary_slides/HRI_TUTUS_summary_slides1024_5.png?raw=true "TUTUs summary slides")
+
